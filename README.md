@@ -1,9 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> Hello-World
-
+This project contain a header Text (Hello Microverse) with your favourate color.
 
 ## Built With
 
@@ -11,18 +10,35 @@
 - VSCODE
 - GIT
 
- 
+## Getting Started
 
-  
+To get a local copy up and running follow these simple example steps.
+Locate the project folder in the Repository.
+Click on the code button and dowload a zip file for the project locally.
+Locate the index.html file and double click it to view webpage.
 
+### Prerequisites
+Node.js, stylelint, browser for displaying it's content.
+install node package manager(npm): npm helps to install stylelint.
+
+
+### Setup
+Download and install browser.
+
+### Usage
+Navigate through the web page to find the information you need. Use the links in the pages to move to different sections.
+
+
+### Deployment
+  Project reside in this Repo. You can clone the repo or download the files manually to your local machine.
 
 
 ## Authors
 
 👤 **Alusine Jalloh**
 
-- GitHub: [@githubhandle](https://github.com/Alusp)
-- LinkedIn: [LinkedIn](linkedin.com/in/alusine-jalloh-873951209)
+- GitHub: [@Alusp](https://github.com/Alusp)
+- LinkedIn: [@alusine-jalloh-873951209](linkedin.com/in/alusine-jalloh-873951209)
  
 ## 🤝 Contributing
 
